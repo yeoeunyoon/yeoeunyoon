@@ -1,21 +1,17 @@
 <!-- Level 1 : Simple Bio and Stats-->
 
-### Hi, I'm Jasmine!
+<h2> I'm Jasmine (Yeo Eun) Yoon!<h2>
 
+<h3> I am currently... </h3>
 🏫 Student in Johns Hopkins university majoring in Computer Science and Applied Mathematics & Statistics
+👩‍💻 Research Consultant @WorldQuant
+🔭 Undergraduate Resarch Assistant @ Johns Hopkins Institute for NanoBioTechnology
+💻 Website and Sponsors Team Organizer @ HopHacks
 
+<h3> I was previously...</h3>
+👩‍💻 Software Engineer Intern @ DocDoc Pte. Ltd.
+👩‍💻 Website Developer @ Samsung Cheil Worldwide
+👩‍💻 Intern @ INSPIFY
 
-<!--
-**yeoeunyoon/yeoeunyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+To know more about me, [click here](www.linkedin.com/in/jasmineyoon04)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
