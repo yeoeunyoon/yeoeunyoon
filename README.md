@@ -19,5 +19,4 @@
 - **Website Developer** @ Samsung Cheil Worldwide
 
 
-To know more about me, [click here](www.linkedin.com/in/jasmineyoon04)
-
+To know more about me, [click here](https://www.linkedin.com/in/jasmineyoon04)
