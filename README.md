@@ -1,8 +1,8 @@
 <!-- Level 1 : Simple Bio and Stats-->
 
-<h2> I'm Jasmine (Yeo Eun) Yoon!<h2>
+<h2> Hi I'm Jasmine (Yeo Eun) Yoon 👋 <h2>
 
-<h3> I am currently... </h3>
+<h3> ✏️ I am currently... </h3>
 
 - **Student in Johns Hopkins University** majoring in Computer Science and Applied Mathematics & Statistics
 
@@ -12,7 +12,7 @@
 
 - **Website and Sponsors Team Organizer** @ HopHacks
 
-<h3> I was previously...</h3>
+<h3> 👩‍💻 I was previously...</h3>
 
 - **Software Engineer Intern** @ DocDoc Pte. Ltd.
 
