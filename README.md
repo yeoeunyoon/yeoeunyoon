@@ -1,4 +1,9 @@
-## Hi there 👋
+<!-- Level 1 : Simple Bio and Stats-->
+
+### Hi, I'm Jasmine!
+
+🏫 Student in Johns Hopkins university majoring in Computer Science and Applied Mathematics & Statistics
+
 
 <!--
 **yeoeunyoon/yeoeunyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
