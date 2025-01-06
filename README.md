@@ -1,6 +1,6 @@
 <!-- Level 1 : Simple Bio and Stats-->
 
-<h2> Hi I'm Jasmine (Yeo Eun) Yoon 👋 <h2>
+<h2> Hi! I'm Jasmine (Yeo Eun) Yoon 👋 <h2>
 
 <h3> ✏️ I am currently... </h3>
 
