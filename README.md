@@ -14,6 +14,8 @@
 
 <h3> 👩‍💻 I was previously...</h3>
 
+- **Software Engineer Intern** @ Bitech LLC
+
 - **Software Engineer Intern** @ DocDoc Pte. Ltd.
 
 - **Website Developer** @ Samsung Cheil Worldwide
