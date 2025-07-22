@@ -5,14 +5,16 @@
 <h3> ✏️ I am currently... </h3>
 
 - **Student in Johns Hopkins University** majoring in Computer Science and Applied Mathematics & Statistics
+  
+- **Software Engineer Intern** @ LS Securities
 
 - **Research Consultant** @WorldQuant
-
-- **Undergraduate Resarch Assistant** @ Johns Hopkins Institute for NanoBioTechnology
 
 - **Website and Sponsors Team Organizer** @ HopHacks
 
 <h3> 👩‍💻 I was previously...</h3>
+
+- **Undergraduate Resarch Assistant** @ Johns Hopkins Institute for NanoBioTechnology
 
 - **Software Engineer Intern** @ Bitech LLC
 
