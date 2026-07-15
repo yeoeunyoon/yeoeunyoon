@@ -1,18 +1,18 @@
 <!-- Level 1 : Simple Bio and Stats-->
 
-<h2> Hi! I'm Jasmine (Yeo Eun) Yoon 👋 <h2>
+<h2> Hi! I'm Jasmine Yoon 👋 <h2>
 
-<h3> ✏️ I am currently... </h3>
+<h3> Work Experience </h3>
 
 - **Student in Johns Hopkins University** majoring in Computer Science and Applied Mathematics & Statistics
+
+- **Software Engineer Intern** @ Point72
+
+- **Head of Development** @ Hopkins Quant Trading
   
 - **Software Engineer Intern** @ LS Securities
 
-- **Research Consultant** @WorldQuant
-
-- **Website and Sponsors Team Organizer** @ HopHacks
-
-<h3> 👩‍💻 I was previously...</h3>
+- **Website Developer** @ HopHacks
 
 - **Undergraduate Resarch Assistant** @ Johns Hopkins Institute for NanoBioTechnology
 
